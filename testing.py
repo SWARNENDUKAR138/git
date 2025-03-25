@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-print("hello friends") 
-i am bokachodda
-=======
 def hello():
     """
     this is demo
@@ -10,4 +6,3 @@ def hello():
 
 
 hello()
->>>>>>> 47cdc56 (added test files)
